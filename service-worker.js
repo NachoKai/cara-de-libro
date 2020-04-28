@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cara-de-libro/precache-manifest.2c560ca8106c00018d06dab5d05e1ef4.js"
+  "/cara-de-libro/precache-manifest.01bdbf19dced9bf0f885502318b88f97.js"
 );
 
 self.addEventListener('message', (event) => {
