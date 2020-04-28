@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cara-de-libro/static/css/main.c0e190b4.chunk.css",
-    "main.js": "/cara-de-libro/static/js/main.3aaa27a0.chunk.js",
-    "main.js.map": "/cara-de-libro/static/js/main.3aaa27a0.chunk.js.map",
+    "main.js": "/cara-de-libro/static/js/main.834898fa.chunk.js",
+    "main.js.map": "/cara-de-libro/static/js/main.834898fa.chunk.js.map",
     "runtime-main.js": "/cara-de-libro/static/js/runtime-main.7c54fc28.js",
     "runtime-main.js.map": "/cara-de-libro/static/js/runtime-main.7c54fc28.js.map",
     "static/js/2.92546b5d.chunk.js": "/cara-de-libro/static/js/2.92546b5d.chunk.js",
     "static/js/2.92546b5d.chunk.js.map": "/cara-de-libro/static/js/2.92546b5d.chunk.js.map",
     "index.html": "/cara-de-libro/index.html",
-    "precache-manifest.3f8bcd582bcd2f5e08e52f91d4aa2fa6.js": "/cara-de-libro/precache-manifest.3f8bcd582bcd2f5e08e52f91d4aa2fa6.js",
+    "precache-manifest.67e1dfe30b606a91746e9bb6a539541a.js": "/cara-de-libro/precache-manifest.67e1dfe30b606a91746e9bb6a539541a.js",
     "service-worker.js": "/cara-de-libro/service-worker.js",
     "static/css/main.c0e190b4.chunk.css.map": "/cara-de-libro/static/css/main.c0e190b4.chunk.css.map",
     "static/js/2.92546b5d.chunk.js.LICENSE.txt": "/cara-de-libro/static/js/2.92546b5d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7c54fc28.js",
     "static/js/2.92546b5d.chunk.js",
     "static/css/main.c0e190b4.chunk.css",
-    "static/js/main.3aaa27a0.chunk.js"
+    "static/js/main.834898fa.chunk.js"
   ]
 }
