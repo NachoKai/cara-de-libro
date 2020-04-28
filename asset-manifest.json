@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cara-de-libro/static/css/main.769d62c6.chunk.css",
+    "main.css": "/cara-de-libro/static/css/main.2f897b9c.chunk.css",
     "main.js": "/cara-de-libro/static/js/main.148323da.chunk.js",
     "main.js.map": "/cara-de-libro/static/js/main.148323da.chunk.js.map",
     "runtime-main.js": "/cara-de-libro/static/js/runtime-main.7c54fc28.js",
@@ -8,15 +8,15 @@
     "static/js/2.92546b5d.chunk.js": "/cara-de-libro/static/js/2.92546b5d.chunk.js",
     "static/js/2.92546b5d.chunk.js.map": "/cara-de-libro/static/js/2.92546b5d.chunk.js.map",
     "index.html": "/cara-de-libro/index.html",
-    "precache-manifest.1c0a0a577513fb9100ecfe2737260c48.js": "/cara-de-libro/precache-manifest.1c0a0a577513fb9100ecfe2737260c48.js",
+    "precache-manifest.14b0916417891840a46627316c0baf71.js": "/cara-de-libro/precache-manifest.14b0916417891840a46627316c0baf71.js",
     "service-worker.js": "/cara-de-libro/service-worker.js",
-    "static/css/main.769d62c6.chunk.css.map": "/cara-de-libro/static/css/main.769d62c6.chunk.css.map",
+    "static/css/main.2f897b9c.chunk.css.map": "/cara-de-libro/static/css/main.2f897b9c.chunk.css.map",
     "static/js/2.92546b5d.chunk.js.LICENSE.txt": "/cara-de-libro/static/js/2.92546b5d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c54fc28.js",
     "static/js/2.92546b5d.chunk.js",
-    "static/css/main.769d62c6.chunk.css",
+    "static/css/main.2f897b9c.chunk.css",
     "static/js/main.148323da.chunk.js"
   ]
 }
