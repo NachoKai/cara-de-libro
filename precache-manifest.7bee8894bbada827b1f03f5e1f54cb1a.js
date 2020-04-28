@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23b51a57122121c5e444a8c3a99b44fd",
+    "revision": "fb7ab1cac526736ffa03a8b1c92eb346",
     "url": "/cara-de-libro/index.html"
   },
   {
-    "revision": "5a8f165e570e753bdd81",
-    "url": "/cara-de-libro/static/css/main.8fa2dd26.chunk.css"
+    "revision": "406657948aecb21fa7b1",
+    "url": "/cara-de-libro/static/css/main.0b566dfa.chunk.css"
   },
   {
     "revision": "42f3e32f9eab36264d92",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cara-de-libro/static/js/2.92546b5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a8f165e570e753bdd81",
-    "url": "/cara-de-libro/static/js/main.813614e1.chunk.js"
+    "revision": "406657948aecb21fa7b1",
+    "url": "/cara-de-libro/static/js/main.966ee814.chunk.js"
   },
   {
     "revision": "6e9c2c18045b8b5c6117",
