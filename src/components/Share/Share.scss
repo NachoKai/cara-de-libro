@@ -1,0 +1,92 @@
+.share {
+  display: flex;
+  padding: 0.5rem;
+  flex-direction: column;
+  background-color: #242526;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.share-a {
+  display: flex;
+}
+
+.share-b {
+  display: flex;
+  padding: 0.5rem;
+}
+
+.share-a_a {
+  border-radius: 50%;
+  color: #e4e6eb;
+  font-size: 2.5rem;
+  margin-right: 0.5rem;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.share-a_b {
+  width: 100%;
+  background-color: #3a3b3c;
+  border-radius: 1rem;
+
+  input {
+    width: 100%;
+    min-width: 240px;
+    height: 100%;
+    background-color: transparent;
+    border: none;
+    color: #eee;
+    margin-left: 0.5rem;
+  }
+  &::placeholder {
+    color: #b0b3b8;
+    font-size: 1rem;
+  }
+}
+
+.share-b_icon-a {
+  font-size: 1.5rem;
+  color: #45bd62;
+  margin: 0 0.3rem;
+  &:hover {
+    cursor: pointer;
+  }
+}
+.share-b_icon-b {
+  font-size: 1.5rem;
+  color: #1877f2;
+  margin: 0 0.3rem;
+  &:hover {
+    cursor: pointer;
+  }
+}
+.share-b_icon-c {
+  font-size: 1.5rem;
+  color: #f7b928;
+  margin: 0 0.3rem;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+/* MQ */
+
+@media all and (min-width: 1024px) {
+  .share {
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+  }
+  .share-box {
+    width: 500px;
+  }
+}
+@media all and (min-width: 768px) {
+}
+@media all and (min-width: 480px) {
+}
+@media all and (max-width: 480px) {
+}
